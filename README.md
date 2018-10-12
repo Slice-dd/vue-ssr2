@@ -1,6 +1,11 @@
-# vuessr
+<a href="https://github.com/kenkozheng/HTML5_research/tree/master/Vue-SSR-Multipages-Webpack3">主要参考这个大神的项目</a>
 
+# 其他项目配置参数未改变，只在原有多页面的的基础上增加了路由，还在优化中...
+
+# vuessr
+#
 > nodejs
+
 
 ## Build Setup
 
